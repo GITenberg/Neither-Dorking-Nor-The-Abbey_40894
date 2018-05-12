@@ -1,0 +1,38 @@
+_repo: Neither-Dorking-Nor-The-Abbey_40894
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Hardy, Thomas
+    birthdate: 1840
+    deathdate: 1928
+    gutenberg_agent_id: '23'
+    url: http://www.gutenberg.org/2009/agents/23
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hardy
+covers:
+- cover_type: archival
+  image_path: 40894-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Barrie, J. M. (James Matthew)
+    aliases:
+    - Barrie, J.M.
+    - Barrie, James Matthew
+    birthdate: 1860
+    deathdate: 1937
+    gutenberg_agent_id: '10'
+    url: http://www.gutenberg.org/2009/agents/10
+    wikipedia: http://en.wikipedia.org/wiki/J._M._Barrie
+description: ''
+gutenberg_issued: '2012-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40894'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Meredith, George, 1828-1909'
+title: Neither Dorking nor the Abbey
+url: http://www.gutenberg.org/ebooks/40894
